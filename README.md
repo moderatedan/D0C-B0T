@@ -6,4 +6,5 @@ Run the program:
 
 In the terminal, type the following command to run the Python program:
 
+
 python3 mental_disorder_assessment.py
