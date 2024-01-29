@@ -50,3 +50,5 @@ sudo apt-get install python3-pip
 Finally type:
 
 python3 mental_disorder_assessment.py
+
+ Buy me a Rip It Energy Drink! Send Monero to: 45WfVFmKFDKCAPGuPtJQG5jEnTvPf8wLk36KeG5AQKngBgmxeB6byHJTYnR4hVwJGxFCmo2wiWbFuivPcWPpknn951tFxcF
