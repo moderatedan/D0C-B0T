@@ -51,4 +51,4 @@ Finally type:
 
 python3 mental_disorder_assessment.py
 
- Buy me a Rip It Energy Drink! Send Monero to: 45WfVFmKFDKCAPGuPtJQG5jEnTvPf8wLk36KeG5AQKngBgmxeB6byHJTYnR4hVwJGxFCmo2wiWbFuivPcWPpknn951tFxcF
+ Buy me a Rip It Energy Drink! Send Monero to: 42NGBnaasaXT6xov3BRUaoNhB4Bt9sgiZ1JrLvA1pYTCTcfWmrsGbAiHgFh3qCQitWMTmvRsp3goWbBvqT2LbPgSQE2HNaw
