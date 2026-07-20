@@ -1,0 +1,2 @@
+# D0C-B0T runs on a single dependency.
+flask>=3.0
